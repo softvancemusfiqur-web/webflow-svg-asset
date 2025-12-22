@@ -859,7 +859,7 @@
       d="M315.89,1082.89,67.1,1094s-6.85.38-9.08-4.09a14.42,14.42,0,0,1-1.88-8.34c.15-2.2,0-155.74,0-155.74s.9-11,10.26-10.47,249.35,11.52,249.35,11.52,8.16.22,10.28,5.46c1.06,3.34,1.16,8.91,1.16,10.46s.11,126.31.11,126.31.61,6.14-1.8,9A13.9,13.9,0,0,1,315.89,1082.89Z"
       fill="none" stroke="#333" stroke-width="8"/>
 <rect x="60" y="880" width="340" height="240" fill="#001122" opacity="0.3" clip-path="url(#tv-screen-clip)"/>
-<foreignObject style="background-color: orange" x="60" y="880" width="340" height="240" clip-path="url(#tv-screen-clip)" id="video-foreign-object">
+<foreignObject style="background-color: orange" x="60" y="880" width="300" height="240" clip-path="url(#tv-screen-clip)" id="video-foreign-object">
 
 </foreignObject>
         
